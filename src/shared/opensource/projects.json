@@ -2,27 +2,19 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "SmartParkingSystem ",
+      "createdAt": "Dec 2021",
+      "url": "https://github.com/ShashankR25/smart-parking-system",
+      "description": "🔥 SMART PARKING SYSTEM project is a small IoT-based project. This project is designed in such a way that it would be useful in the coming future. It is also a part of industrial development. Small technics sum up building a huge project. This project works efficiently, smarter, and in an easier way.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Arduino",
+          "iconifyClass": "logos-arduino"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "C++",
+          "iconifyClass": "vscode-icons:file-type-cpp3"
         }
       ]
     },
